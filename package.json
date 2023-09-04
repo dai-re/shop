@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  },
+  "name": "shop",
+  "version": "1.0.0",
+  "description": "simple",
+  "main": "index.js",
+  "author": "dai-re <dairewahandi@gmail.com>",
+  "license": "MIT"
+}

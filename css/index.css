@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Poppins:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  font-family: "Poppins", sans-sebody;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(150deg, #ecedee, transparent 30%),
+    linear-gradient(330deg, rgb(210, 206, 242), transparent 30%),
+    linear-gradient(225deg, #fff0be, #fbdce7, #e2fae1, powderblue);
+}
+
+.fix-s {
+  height: 844px;
+  width: 390px;
+  overflow: scroll;
+  box-shadow: 2px 2px 5px hsla(324.1,0%,39.6%,0.486);
+}

@@ -1,0 +1,26 @@
+Arguments: 
+  /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/share/yarn/bin/yarn.js add tailwindcss@0.7.4 --dev
+
+PATH: 
+  /data/data/com.termux/files/usr/bin:/data/data/com.termux/files/home/.local/bin:/data/data/com.termux/files/usr/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  20.2.0
+
+Platform: 
+  android arm64
+
+Trace: 
+  Error: EACCES: permission denied, symlink '../../../browserslist/cli.js' -> '/storage/32FE-B65A/web/teskode/node_modules/autoprefixer/node_modules/.bin/browserslist'
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
