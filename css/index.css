@@ -20,4 +20,8 @@ body {
   width: 390px;
   overflow: scroll;
   box-shadow: 2px 2px 5px hsla(324.1,0%,39.6%,0.486);
+  scrollbar-width: none;
+}
+.fix-s::-webkit-scrollbar {
+  display: none;
 }
